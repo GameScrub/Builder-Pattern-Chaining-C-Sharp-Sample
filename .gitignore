@@ -3,3 +3,9 @@
 ################################################################################
 
 /BuilderWithChainingSample/.vs/BuilderWithChainingSample/v15/Server/sqlite3
+/BuilderWithChainingSample/.vs/BuilderWithChainingSample/v15
+/BuilderWithChainingSample/BuilderWithChainingSample/obj/Debug/netcoreapp2.1
+/BuilderWithChainingSample/BuilderWithChainingSample/bin/Debug/netcoreapp2.1
+/BuilderWithChainingSample/BuilderWithChainingSample/obj
+/BuilderWithChainingSample/Calculator.Tests/bin/Debug/netcoreapp2.1
+/BuilderWithChainingSample/Calculator.Tests/obj
